@@ -1,4 +1,6 @@
 {
+  "extends": "typestrict",
+  "defaultSeverity": "error",
   "rulesDirectory": [
     "node_modules/codelyzer"
   ],
